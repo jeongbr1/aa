@@ -1,5 +1,5 @@
 window.onload = function() {
-    window.open("https://example.com", "_blank");
+    window.open("https://act-att.tistory.com/", "_blank");
 };
 
 
