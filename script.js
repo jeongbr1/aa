@@ -2,7 +2,6 @@ window.onload = function() {
     window.open("https://act-att.tistory.com/", "_blank");
 };
 
-
 const questions = [
     { 
         question: "주말에 가장 선호하는 활동은 무엇인가요?", 
