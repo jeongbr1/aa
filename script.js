@@ -2,9 +2,9 @@ document.getElementById("open-site-button").onclick = function() {
     window.open("https://act-att.tistory.com/", "_blank");
 };
 
-window.onload = function() {
-    window.open("https://act-att.tistory.com/", "_blank");
-};
+//window.onload = function() {
+//   window.open("https://act-att.tistory.com/", "_blank");
+//};
 
 
 
