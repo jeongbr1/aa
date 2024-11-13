@@ -116,7 +116,7 @@ const characterDescriptions = {
         `,
         mbti: "ENFJ",
         bloodType: "O형",
-        imageUrl: "https://i.namu.wiki/i/fO4V5OzikUFb2Q_O48Od4oav8R4d3wjad-Q2wtc87mmEEQZthKw-Y_jEXU7pAoWF-j31ne5gnCyJHjRh_M7zhKG21d9k0IYyB3L0ZDO1z1kqkRPghN-sT1beMntY_8BqpnzObeXbmEBDDH4kXGI6AQ.webp"
+        imageUrl: "https://i.namu.wiki/i/8A264LITvLxOSYm0IxI-yHMQbQElVnIYoegNlV1CCZigox-58u6kNO7jvQVNxPUEXgEg-jZCyE1PiAAFjWE9ZBQKj5d0UoF9Gj-MENNUd1l-XpVEycEa2dj7cpdZUIP77FHjJbjenbI2Wc8vc118JQ.webp"
     },
 
     "하츄핑": {
@@ -132,7 +132,7 @@ const characterDescriptions = {
         `,
         mbti: "INFP",
         bloodType: "AB형",
-        imageUrl: "https://i.namu.wiki/i/YuDctxlUaYvnvaxFAIt3KJqeZhFU4A4oUJabgsHbcw7dc6zA-Epp3Toda6AZLIavJs3ROLCIWssd_3BOkzKCggD9ZEhIWiy3frDPRz9D-UsvponOaAnmIe3XSPcXNdJgtJIdYL9wwUdmMi5cSIuaBw.webp"
+        imageUrl: "https://i.namu.wiki/i/t4VcRpymmsCbNQNFHz2T5qE1YppfnEy0yUW9istlbxavZ5tv1LjyUSCgk9lM5wa_6L5E0z1akX3OBKZeeQ_B83NeCNbTKYFIdxoRR5Y0dk1K5tL2TfGzJLog0g9DBQ_HG6GpbXrA6M5YEi7I3AZ2-w.webp"
        
     },
     "멋지핑": {
@@ -163,7 +163,7 @@ const characterDescriptions = {
         `,
         mbti: "ISTJ",
         bloodType: "A형",
-        imageUrl: "https://i.namu.wiki/i/78fm4ftBvESY-wrQQO5a7QyNZLbFaHZgzEucu2c6o2WJRlkSC9UYADJK0E7hA-8IvU8BCkWZccRBt71M3vFl2DX42lxsXmWi3C8HY_5cHEPlbZ-rOG83WDC5OuA2VhUseRA4Kh48H7mDw17nebX7QQ.webp"
+        imageUrl: "https://i.namu.wiki/i/jLZym5zgaTVIITHcPM2DP-vtP0ZqNmznUGIRvQHvfuza5v3ekwW41yPmcW9Z8LP2U_UTcytqz2NkLlEN6EWiYlqPw_FSnhYmUAH6iD4nwQIe0vEdbis7-t2KGtmDvwlUDakBJFQtd52yiyXfI3h0kw.webp"
     },
     "차차핑": {
         description: `
@@ -178,7 +178,7 @@ const characterDescriptions = {
         `,
         mbti: "ISFP",
         bloodType: "O형",
-        imageUrl: "https://i.namu.wiki/i/QUvPCOjYZV9AfVyOEnH9gn6YLdyC_0uwO2po6wYXOVhEnP8NF52uPO7mOkMfWcjwij0gC8pirhO_ySLKHtp8arnFB0QQlN0TKJTYL46yDoIQcOhGghHViZlL6xX09BBQTdcLrjcHL9JPYddTh0euKQ.webp"
+        imageUrl: "https://i.namu.wiki/i/Aic6xVhoCgjfJM1H_QkdtayZ_JvVGtfgpIckj6RLAv0ZBIILsrexb0wjUVEphhQ-hsg9Ms6Jjqur8dNSHYTJNDwt9PJMi1muIcWO8BqX38HLZbVN7-CiehZ77Ib09wSgTQuDNqA6bQZje1wX-bcWGA.webp"
     }
 };
 
